@@ -2,7 +2,6 @@
 
 Bu repo, Web Uygulama Guvenligi hakkinda (cogunlukla) Turkce kaynaklarin toplandigi repodur. Herhangi bir kaynak (blogpost, pdf vs) eklemek icin lutfen readme.md dosyasinda ilgili eklemeleri yapip pull-request gonderin.
 
-
 ## Linux Yaz Kampi (Ozgur Yazilim Kampi) Web Uygulama Guvenligi ve Guvenli Kod Gelistirme Egitimi Notlari
 
 - 2019
@@ -24,6 +23,11 @@ Bu repo, Web Uygulama Guvenligi hakkinda (cogunlukla) Turkce kaynaklarin topland
 - Netsparker [EN] - [https://www.netsparker.com/blog/](https://www.netsparker.com/blog/)
 - pentest.blog [EN] - [https://pentest.blog/](https://pentest.blog/)
 - canyoupwn.me - [https://canyoupwn.me/](https://canyoupwn.me/)
+
+## Gruplar
+
+- Web Uygulama Güvenliği Türkiye Telegram Grubu - [https://t.me/WebUygulamaGuvenligiTurkiye](https://t.me/WebUygulamaGuvenligiTurkiye)
+
 
 ## Ucretsiz Egitimler
 
